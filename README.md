@@ -7,4 +7,6 @@
 7. Showing 4 ways to display station names with 15-17 bikes
 8. Filtering for stations with the letter C
 9. Creating a table with new id numbers
-10. COunting unique start stations
+10. Counting unique start stations
+
+Ran on pgAdmin4
