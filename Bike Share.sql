@@ -59,7 +59,7 @@ WHERE bikes_available >= 17
 ;
 
 
--- Showing station names that have 15 to 7 bikes available
+-- Showing station names that have 15 to 17 bikes available
 SELECT DISTINCT stations.name, status.bikes_available
 FROM stations
 	JOIN status
